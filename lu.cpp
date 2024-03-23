@@ -1,7 +1,7 @@
 #include <iostream>
 #include <malloc.h>
 using namespace std;
-
+/*LUISA FERNANDA GONZALEZ DELGADO Y VERONICA MORALES OROZCO*/
 
 struct cliente {
     int num_cuenta ;
